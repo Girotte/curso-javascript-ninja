@@ -14,10 +14,10 @@ var soma = 15 + 8;
 soma++
 
 // Atribua à variável `soma` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
-soma *
+soma *= 3;
 
 // Qual é o valor da variável `soma` até aqui?
-576
+72
 
 // Declare uma variável chamada `souninja`, atribuindo à ela o valor booleano que representa `verdadeiro`.
 var souninja = true;
@@ -38,8 +38,6 @@ myvar <= soma
 function divisao(x, y){
 return x / y;
 }
-divisao(5,5)
 
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
-?
 divisao(10,2)
